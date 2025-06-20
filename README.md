@@ -1,2 +1,2 @@
 # Website-page
-Front-end of contract website using HTML and CSS 
+Front-end of contract website using HTML and inlineCSS 
